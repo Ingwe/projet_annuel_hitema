@@ -1,4 +1,2 @@
-SortieFinal
-===========
-
-A Symfony project created on June 10, 2017, 12:02 pm.
+# projet_annuel_hitema
+Notre projet annuel de chez hitema
